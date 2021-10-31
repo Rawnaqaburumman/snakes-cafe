@@ -1,3 +1,3 @@
 Deployed URL : 
 
-[Pull Request](/guides/content/editing-an-existing-page)
+[Pull Request](https://github.com/Rawnaqaburumman/snakes-cafe/pull/1)
