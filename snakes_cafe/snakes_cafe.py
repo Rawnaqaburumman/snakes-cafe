@@ -45,7 +45,7 @@ def take_order():
  ordersIndex=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
  order = input(">>>>>>>>")
 
- while  (order != "quit" or order != " " ):
+ while  (order != "quit" ):
   num = orders.index(order)
   ordersIndex[num] =  ordersIndex[num] + 1 ;
  ## print(num)
